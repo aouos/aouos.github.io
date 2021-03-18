@@ -1,3 +1,1 @@
-# aouos.github.io
-
-My knowledge notes 
+# my website
