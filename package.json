@@ -1,0 +1,16 @@
+{
+  "name": "aotec",
+  "version": "0.0.1",
+  "description": "notes",
+  "main": "index.js",
+  "author": "aouos",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  }
+}
